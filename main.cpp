@@ -24,7 +24,7 @@ int main(int, char**){
     // Example 2: scalar broadcast
     Tensor<double> s({1}, std::vector<double>{5.0});
     auto d = a * s; // multiply all elements by 5
-    std::cout << d.ToString();
+    std::cout << d.ToString(); 
 
     // Example 3: vector dot
     Tensor<double> v1({3}, std::vector<double>{1,2,3});
