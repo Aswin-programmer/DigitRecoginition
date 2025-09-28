@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Aswin_C++Dev/DigitRecoginition/build/Debug/cmake_install.cmake",
+		"C:/Aswin_C++Dev/DigitRecoginition/build/Debug/DEPENDENCIES/MyLib/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/Aswin_C++Dev/DigitRecoginition/build/Debug",
+  "command": "c:\\PROGRA~1\\LLVM-21\\bin\\CLANG_~1.EXE -DRESOURCES_PATH=\\\"C:/Aswin_C++Dev/DigitRecoginition/ASSETS/\\\" -IC:/Aswin_C++Dev/DigitRecoginition/DEPENDENCIES/MyLib -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o CMakeFiles\\DigitRecoginition.dir\\main.cpp.obj -c C:\\Aswin_C++Dev\\DigitRecoginition\\main.cpp",
+  "file": "C:\\Aswin_C++Dev\\DigitRecoginition\\main.cpp",
+  "output": "CMakeFiles\\DigitRecoginition.dir\\main.cpp.obj"
+},
+{
+  "directory": "C:/Aswin_C++Dev/DigitRecoginition/build/Debug",
+  "command": "c:\\PROGRA~1\\LLVM-21\\bin\\CLANG_~1.EXE -IC:/Aswin_C++Dev/DigitRecoginition/DEPENDENCIES/MyLib -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o DEPENDENCIES\\MyLib\\CMakeFiles\\MyLib.dir\\CSVLoader.cpp.obj -c C:\\Aswin_C++Dev\\DigitRecoginition\\DEPENDENCIES\\MyLib\\CSVLoader.cpp",
+  "file": "C:\\Aswin_C++Dev\\DigitRecoginition\\DEPENDENCIES\\MyLib\\CSVLoader.cpp",
+  "output": "DEPENDENCIES\\MyLib\\CMakeFiles\\MyLib.dir\\CSVLoader.cpp.obj"
+},
+{
+  "directory": "C:/Aswin_C++Dev/DigitRecoginition/build/Debug",
+  "command": "c:\\PROGRA~1\\LLVM-21\\bin\\CLANG_~1.EXE -IC:/Aswin_C++Dev/DigitRecoginition/DEPENDENCIES/MyLib -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o DEPENDENCIES\\MyLib\\CMakeFiles\\MyLib.dir\\NumCPP.cpp.obj -c C:\\Aswin_C++Dev\\DigitRecoginition\\DEPENDENCIES\\MyLib\\NumCPP.cpp",
+  "file": "C:\\Aswin_C++Dev\\DigitRecoginition\\DEPENDENCIES\\MyLib\\NumCPP.cpp",
+  "output": "DEPENDENCIES\\MyLib\\CMakeFiles\\MyLib.dir\\NumCPP.cpp.obj"
+}
+]

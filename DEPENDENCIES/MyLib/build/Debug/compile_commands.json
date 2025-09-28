@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Aswin_C++Dev/DigitRecoginition/DEPENDENCIES/MyLib/build/Debug",
+  "command": "c:\\PROGRA~1\\LLVM-21\\bin\\CLANG_~1.EXE -IC:/Aswin_C++Dev/DigitRecoginition/DEPENDENCIES/MyLib -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o CMakeFiles\\MyLib.dir\\CSVLoader.cpp.obj -c C:\\Aswin_C++Dev\\DigitRecoginition\\DEPENDENCIES\\MyLib\\CSVLoader.cpp",
+  "file": "C:\\Aswin_C++Dev\\DigitRecoginition\\DEPENDENCIES\\MyLib\\CSVLoader.cpp",
+  "output": "CMakeFiles\\MyLib.dir\\CSVLoader.cpp.obj"
+}
+]

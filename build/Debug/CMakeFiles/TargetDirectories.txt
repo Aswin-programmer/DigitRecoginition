@@ -1,0 +1,6 @@
+C:/Aswin_C++Dev/DigitRecoginition/build/Debug/CMakeFiles/DigitRecoginition.dir
+C:/Aswin_C++Dev/DigitRecoginition/build/Debug/CMakeFiles/edit_cache.dir
+C:/Aswin_C++Dev/DigitRecoginition/build/Debug/CMakeFiles/rebuild_cache.dir
+C:/Aswin_C++Dev/DigitRecoginition/build/Debug/DEPENDENCIES/MyLib/CMakeFiles/MyLib.dir
+C:/Aswin_C++Dev/DigitRecoginition/build/Debug/DEPENDENCIES/MyLib/CMakeFiles/edit_cache.dir
+C:/Aswin_C++Dev/DigitRecoginition/build/Debug/DEPENDENCIES/MyLib/CMakeFiles/rebuild_cache.dir
