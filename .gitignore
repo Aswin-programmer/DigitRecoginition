@@ -1,20 +1,77 @@
-# CMake build and cache files
+### CMake build directories ###
 build/
-CMakeCache.txt
-CMakeFiles/
-cmake_install.cmake
+[Cc]MakeCache.txt
+[Cc]MakeFiles/
+[Cc]TestTestfile.cmake
+[Cc]MakeInstall.cmake
+[Cc]MakeDetermine*.cmake
 Makefile
+install_manifest.txt
+CTestTestfile.cmake
 
-# VS Code specific files
-.vscode/
+### Ninja / other build tools ###
+*.ninja
+.ninja_deps
+.ninja_log
 
-# IDE and OS files
+### Compiled object files / libraries ###
 *.o
-*.a
-*.so
+*.obj
 *.lo
 *.la
+*.al
+*.a
+*.lib
+*.so
+*.so.*
+*.dylib
 *.dll
+
+### Executables ###
 *.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+### Static analysis / coverage ###
+*.gcno
+*.gcda
+*.gcov
+*.profraw
+*.profdata
+
+### Editor / IDE files ###
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+### OS-generated files ###
 .DS_Store
 Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+### Logs / temp ###
+*.log
+*.tmp
+
+### Backup files ###
+*~
+*.swp
+*.bak
+
+### Clang / MSVC intermediate ###
+*.pdb
+*.idb
+*.ilk
+*.rsp
+*.tlog
+
+### Test / generated data ###
+*.test
+*.cache
